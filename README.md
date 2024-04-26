@@ -4,9 +4,9 @@ ap1 prog estrut
 Turma 8002
 
 # GRUPO
-Estevão Moraes
-Enzo Lazzarotto
-João Gabriel Miguel
+Estevão Moraes,
+Enzo Lazzarotto,
+João Gabriel Miguel,
 Gabriel Corrêa
 
 
