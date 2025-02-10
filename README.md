@@ -8,7 +8,3 @@ Estevão Moraes,
 Enzo Lazzarotto,
 João Gabriel Miguel,
 Gabriel Corrêa
-
-
-
-(os melhores alunos, por sinal)
